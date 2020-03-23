@@ -10,3 +10,4 @@ def square_array(array)
 
   return newArr
 end
+
